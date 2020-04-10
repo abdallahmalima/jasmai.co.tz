@@ -1,0 +1,8 @@
+.pad-space{
+	padding-left: 91px;
+	padding-right: 91px;
+}
+
+.pad-login{
+	padding-top: 65px;
+}
